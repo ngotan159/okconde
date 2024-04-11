@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Đây là file của branch cau123 mà  thôi duy nhất
+=======
+Đây là file của branch cau123 và Main luôn
+>>>>>>> main
